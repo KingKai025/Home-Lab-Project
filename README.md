@@ -26,20 +26,23 @@ This Home Lab is an introductory project aimed to implement the fundamentals and
 - Using Metasploit and Burpsuite to simulate different attack vectors.
 
 ## Steps
-Installing Operating systems using different hypervisors:
+### Installing different Operating systems using different hypervisors:
 
 <img width="1411" height="789" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/5be6045b-818a-4d8f-995d-131f5cd995ca" /> <br/>
 <img width="1485" height="792" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/fc0380aa-db4b-45dd-af75-cc1cee11e60a" />
 
-*Ref 1: Using Virtualbox*
+*Ref 1: Using Virtualbox to install both Windows 10 and Kali Linux*
 
-<div/>
+
 <img width="1920" height="1080" alt="Screenshot (420)" src="https://github.com/user-attachments/assets/66771f7a-6a48-4bc3-9c8e-08724ff8353e" />
 <img width="1920" height="1080" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/3d43c3d2-800c-4548-ad30-6318e7d1599c" />
 
-*Ref 2: Using VMware Workstation*
-</div>
+*Ref 2: Using VMware Workstation to install both Windows 10 and Kali Linux*
 
+### Installing A SIEM (Splunk):
+<img width="1549" height="915" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/18c219b7-961a-4ff6-92ea-0cb8ebb79e4f" />
+
+*Ref 3: A SIEM used for various detections and analysis*
 
 
 
