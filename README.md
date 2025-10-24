@@ -13,7 +13,11 @@ This Home Lab is an introductory project aimed to implement the fundamentals and
 - Snapshots & Backups
 - Security & Isolation
 - Command Line Proficiency
-- Troubleshooting & Diagnostics
+- Troubleshooting, Diagnostics & Root Cause Analysis
+- Data Analysis & Interpretation
+- Search Processing Language (SPL)
+- Monitoring & Alert Configuration
+- Security & Threat Analysis
 
 ### Tools Used
 
@@ -22,10 +26,20 @@ This Home Lab is an introductory project aimed to implement the fundamentals and
 - Using Metasploit and Burpsuite to simulate different attack vectors.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Installing Operating systems using different hypervisors:
 
-Every screenshot should have some text explaining what the screenshot is about.
+<img width="1411" height="789" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/5be6045b-818a-4d8f-995d-131f5cd995ca" /> <br/>
+<img width="1485" height="792" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/fc0380aa-db4b-45dd-af75-cc1cee11e60a" />
 
-Example below.
+*Ref 1: Using Virtualbox*
 
-*Ref 1: Network Diagram*
+
+<img width="1920" height="1080" alt="Screenshot (420)" src="https://github.com/user-attachments/assets/66771f7a-6a48-4bc3-9c8e-08724ff8353e" />
+<img width="1920" height="1080" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/3d43c3d2-800c-4548-ad30-6318e7d1599c" />
+
+*Ref 2: Using VMware Workstation*
+
+
+
+
+
