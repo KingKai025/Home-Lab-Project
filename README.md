@@ -33,12 +33,12 @@ Installing Operating systems using different hypervisors:
 
 *Ref 1: Using Virtualbox*
 
-
+<div/>
 <img width="1920" height="1080" alt="Screenshot (420)" src="https://github.com/user-attachments/assets/66771f7a-6a48-4bc3-9c8e-08724ff8353e" />
 <img width="1920" height="1080" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/3d43c3d2-800c-4548-ad30-6318e7d1599c" />
 
 *Ref 2: Using VMware Workstation*
-
+</div>
 
 
 
